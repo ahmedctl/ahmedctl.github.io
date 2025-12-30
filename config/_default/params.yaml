@@ -7,10 +7,10 @@ hugoblox:
     description: ""
   theme:
     mode: system
-    pack: marine
+    pack: minimal
     colors:
-      primary: ""
-      secondary: ""
+      primary: "#010112"
+      secondary: "#ffffff"
       neutral: ""
   typography:
     font: serif
