@@ -24,11 +24,13 @@ hugoblox:
     avatar_shape: circle
   header:
     enable: true
-    style: minimal
-    sticky: true
+    style: navbar
+    sticky: false
     align: center
     search: true
     theme_toggle: true
+    theme_picker: false
+    language_switcher: true
   footer:
     style: minimal
     language_switcher: true

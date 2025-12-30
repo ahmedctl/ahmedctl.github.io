@@ -3,11 +3,14 @@
 
 main:
   - name: Home
+    identifier: KcgOS_ft
     url: /
     weight: 10
   - name: Topics
+    identifier: O_1IP5fN
     url: tags/
     weight: 20
-  - name: Uses
-    url: uses/
+  - name: Posts
+    identifier: f7E5bb0N
+    url: /posts/
     weight: 30
