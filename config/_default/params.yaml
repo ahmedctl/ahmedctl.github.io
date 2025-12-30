@@ -4,7 +4,10 @@ hugoblox:
     name: InfraPlaybook
     type: person
     tagline: "Infrastructure simplified with tutorials "
-    description: ""
+    social:
+      twitter: test
+    organization: Nutanix
+    description: imjustpasionatinthisfield
   theme:
     mode: system
     pack: minimal
@@ -21,7 +24,7 @@ hugoblox:
     avatar_shape: circle
   header:
     enable: true
-    style: navbar
+    style: navbar-simple
     sticky: true
     align: center
     search: true
