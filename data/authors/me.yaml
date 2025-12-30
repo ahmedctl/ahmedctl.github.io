@@ -3,11 +3,10 @@ slug: "me"
 is_owner: true
 name:
   display: "InfraPlaybook"
-
 status:
   icon: "🐧"
 role: "Professor of Artificial Intelligence"
-bio: "My research interests include distributed robotics, mobile computing and programmable matter."
+bio: "i am IT Professional"
 affiliations:
   - name: "Stanford University"
     url: "https://www.stanford.edu/"
@@ -27,3 +26,4 @@ links:
   - icon: "rss"
     url: "./post/index.xml"
     label: "Subscribe to my blog via RSS feed"
+weight: null

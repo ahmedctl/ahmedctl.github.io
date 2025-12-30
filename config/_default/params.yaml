@@ -12,9 +12,13 @@ hugoblox:
     mode: system
     pack: minimal
     colors:
-      primary: "#010112"
+      primary: "#000000"
       secondary: "#ffffff"
       neutral: ""
+    colors_light:
+      primary: "#ffffff"
+      secondary: "#000000"
+      neutral: "#000000"
   typography:
     font: serif
     size: md
