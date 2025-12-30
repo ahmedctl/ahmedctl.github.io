@@ -24,7 +24,7 @@ hugoblox:
     avatar_shape: circle
   header:
     enable: true
-    style: navbar-simple
+    style: minimal
     sticky: true
     align: center
     search: true
